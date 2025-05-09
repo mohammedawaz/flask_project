@@ -1,0 +1,11 @@
+Flask
+pyttsx3
+torch
+transformers
+sentence-transformers
+faiss-cpu
+scikit-learn
+requests
+beautifulsoup4
+wikipedia
+googlesearch-python
